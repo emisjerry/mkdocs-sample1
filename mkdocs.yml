@@ -3,7 +3,7 @@ nav:
   - 首頁: index.md
   - 安裝: install.md
   - 執行: build.md
-  - 自訂修改: customize.md
+  - 自訂: customize.md
   - 關於本站: about.md
 theme: readthedocs
 extra_css: [extra.css]
